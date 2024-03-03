@@ -64,7 +64,7 @@ python classifer.py --d traclets --f 5
 
 #### Relevant Repositories
 
-- [d-LOOK](https://github.com/AntonisMakris/d-LOOK)
+- [d-LOOK](https://github.com/f-coda/d-LOOK)
 
 ---
 
